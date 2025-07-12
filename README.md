@@ -75,7 +75,21 @@ _All objects are linked via Lookups or Master-Detail relationships._
 ### TestDriveReminder (Scheduled Flow)
 - Runs 1 day before `Test_Drive_Date__c`  
 - Fetches customer email  
-- Sends reminder email  
+- Sends reminder email
+  
+---
+
+## 📄 Project Documentation
+
+A detailed documentation PDF is included in this repository:
+
+👉 [WhatNext_Salesforce_Project_Formatted.pdf](./WhatNext_Salesforce_Project_Formatted.pdf)
+
+It includes:
+- Project goals and architecture
+- Custom objects and relationships
+- Apex and flow logic
+- Screenshots, setup steps, and test cases
 
 ---
 
