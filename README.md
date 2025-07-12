@@ -83,7 +83,7 @@ _All objects are linked via Lookups or Master-Detail relationships._
 
 A detailed documentation PDF is included in this repository:
 
-👉 [WhatNext_Salesforce_Project_Formatted.pdf](./WhatNext_Salesforce_Project_Formatted.pdf)
+👉[WhatNext_Salesforce_Project_Documentaion.pdf](./WhatNext_Salesforce_Project_Documentaion.pdf)
 
 It includes:
 - Project goals and architecture
